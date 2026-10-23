@@ -1,0 +1,301 @@
+id,fecha,ciudad,categoria,canal,unidades,precio_unitario,descuento_pct,satisfaccion,edad_cliente
+1,2026-05-21,Bogotá,Hogar,WhatsApp,2,64.01,5,5,20
+2,2026-03-15,Cali,Belleza,Instagram,1,35.08,10,2,21
+3,2026-05-12,Medellín,Belleza,WhatsApp,1,32.35,0,5,28
+4,2026-05-28,Bogotá,Moda,Sitio web,1,91.02,0,5,41
+5,2026-01-30,Bogotá,Moda,Sitio web,1,56.29,10,4,42
+6,2026-05-03,Medellín,Belleza,WhatsApp,4,26.2,10,5,41
+7,2026-06-21,Medellín,Hogar,Instagram,3,26.81,15,4,26
+8,2026-04-27,Cali,Belleza,WhatsApp,1,24.86,0,4,36
+9,2026-06-28,Medellín,Moda,Sitio web,1,42.31,20,4,29
+10,2026-06-02,Cali,Belleza,Sitio web,1,28.14,0,3,37
+11,2026-05-08,Cali,Belleza,Sitio web,2,31.17,5,4,39
+12,2026-05-12,Medellín,Hogar,Sitio web,4,50.13,0,4,26
+13,2026-05-08,Medellín,Tecnología,Sitio web,2,274.1,0,4,30
+14,2026-01-22,Bogotá,Belleza,WhatsApp,1,47.16,5,4,52
+15,2026-06-12,Cali,Tecnología,Sitio web,2,190.96,0,4,36
+16,2026-02-04,Bogotá,Moda,WhatsApp,5,56.64,20,4,23
+17,2026-02-10,Bogotá,Tecnología,Instagram,2,278.67,0,4,29
+18,2026-01-04,Cali,Moda,Instagram,1,50.12,20,3,34
+19,2026-01-07,Bogotá,Hogar,WhatsApp,1,55.51,20,5,37
+20,2026-02-13,Medellín,Moda,Instagram,2,27.86,5,4,41
+21,2026-05-21,Medellín,Tecnología,Sitio web,2,138.6,15,5,38
+22,2026-06-14,Bogotá,Tecnología,Instagram,3,240.21,5,5,38
+23,2026-02-05,Medellín,Hogar,Instagram,3,55.15,10,5,43
+24,2026-02-17,Medellín,Tecnología,Sitio web,1,139.45,0,4,41
+25,2026-05-13,Bogotá,Belleza,Sitio web,1,19.33,5,3,34
+26,2026-06-15,Medellín,Moda,Sitio web,1,85.67,0,5,18
+27,2026-05-18,Medellín,Tecnología,Instagram,1,225.19,10,4,32
+28,2026-06-21,Bogotá,Moda,WhatsApp,1,45.66,0,4,30
+29,2026-02-17,Bogotá,Moda,WhatsApp,1,87.6,0,5,40
+30,2026-03-07,Medellín,Moda,Instagram,1,63.61,0,3,53
+31,2026-01-25,Bogotá,Moda,WhatsApp,1,66.97,0,,35
+32,2026-04-14,Medellín,Moda,Sitio web,2,61.24,15,4,44
+33,2026-06-24,Medellín,Belleza,Sitio web,1,22.92,0,5,41
+34,2026-03-16,Bogotá,Moda,WhatsApp,4,99.64,0,4,40
+35,2026-03-29,Barranquilla,Hogar,Instagram,2,41.38,0,4,44
+36,2026-06-15,Medellín,Hogar,WhatsApp,1,48.22,10,4,38
+37,2026-06-19,Bogotá,Belleza,Instagram,1,27.55,0,5,
+38,2026-03-07,Cali,Tecnología,Instagram,5,109.06,15,4,
+39,2026-06-10,Bogotá,Hogar,WhatsApp,1,42.7,0,3,45
+40,2026-03-29,Bogotá,Tecnología,WhatsApp,5,111.51,10,5,29
+41,2026-02-26,Medellín,Moda,WhatsApp,2,105.96,0,4,41
+42,2026-03-01,Medellín,Tecnología,WhatsApp,1,277.57,0,5,24
+43,2026-05-02,Cali,Moda,WhatsApp,2,82.47,5,4,27
+44,2026-05-14,Medellín,Tecnología,WhatsApp,2,208.01,0,,43
+45,2026-01-26,Medellín,Hogar,Instagram,1,41.77,15,3,31
+46,2026-06-19,Medellín,Moda,Instagram,1,25.2,10,5,23
+47,2026-06-01,Barranquilla,Hogar,WhatsApp,1,61.74,0,3,42
+48,2026-02-18,Cali,Tecnología,WhatsApp,1,213.67,0,5,29
+49,2026-05-18,Medellín,Belleza,Instagram,3,42.83,20,5,31
+50,2026-06-14,Cali,Hogar,Instagram,1,51.39,0,4,45
+51,2026-01-28,Cali,Hogar,Sitio web,1,39.34,10,3,39
+52,2026-05-08,Medellín,Hogar,Instagram,2,32.8,0,4,43
+53,2026-01-18,Medellín,Tecnología,Instagram,2,215.97,10,4,21
+54,2026-03-26,Cali,Moda,Sitio web,1,67.17,5,4,49
+55,2026-03-31,Barranquilla,Belleza,Sitio web,3,30.4,0,5,38
+56,2026-03-10,Medellín,Belleza,Sitio web,2,37.25,15,3,45
+57,2026-03-01,Cali,Moda,Sitio web,1,65.86,10,4,54
+58,2026-03-26,Barranquilla,Hogar,WhatsApp,2,43.24,5,1,47
+59,2026-06-20,Medellín,Hogar,WhatsApp,4,33.31,20,4,18
+60,2026-03-10,Medellín,Belleza,WhatsApp,5,30.17,15,3,41
+61,2026-05-04,Cali,Tecnología,Sitio web,1,143.79,20,5,46
+62,2026-02-23,Bogotá,Tecnología,Sitio web,5,131.83,0,1,23
+63,2026-02-09,Medellín,Moda,Sitio web,2,97.01,0,5,41
+64,2026-05-14,Barranquilla,Belleza,WhatsApp,3,38.64,0,4,48
+65,2026-05-12,Medellín,Tecnología,Instagram,1,210.93,0,4,39
+66,2026-05-06,Barranquilla,Belleza,Sitio web,1,30.5,10,4,26
+67,2026-04-30,Cali,Hogar,Instagram,2,41.02,0,3,30
+68,2026-06-15,Bogotá,Belleza,WhatsApp,3,31.04,20,2,46
+69,2026-05-06,Medellín,Moda,Sitio web,4,97.49,10,4,32
+70,2026-05-16,Medellín,Moda,WhatsApp,4,95.14,0,5,61
+71,2026-05-11,Cali,Hogar,WhatsApp,1,74.87,0,3,21
+72,2026-06-23,Bogotá,Tecnología,Sitio web,4,190.29,5,,26
+73,2026-02-09,Bogotá,Belleza,WhatsApp,1,20.82,10,4,31
+74,2026-02-15,Bogotá,Hogar,Instagram,1,52.69,0,5,18
+75,2026-02-09,Bogotá,Moda,Sitio web,2,78.42,20,3,38
+76,2026-05-19,Medellín,Belleza,Instagram,1,54.27,10,4,21
+77,2026-01-15,Medellín,Belleza,Instagram,3,39.48,0,4,41
+78,2026-04-19,Bogotá,Moda,WhatsApp,2,67.73,20,5,36
+79,2026-04-19,Medellín,Tecnología,WhatsApp,2,184.1,0,3,49
+80,2026-05-24,Medellín,Moda,WhatsApp,2,55.34,5,5,18
+81,2026-06-26,Medellín,Tecnología,Instagram,1,178.29,15,4,29
+82,2026-02-07,Bogotá,Tecnología,WhatsApp,5,159.53,5,1,29
+83,2026-03-11,Barranquilla,Moda,Sitio web,1,65.59,10,4,43
+84,2026-06-05,Medellín,Tecnología,WhatsApp,1,201.76,0,4,37
+85,2026-05-15,Medellín,Moda,WhatsApp,1,71.61,5,4,18
+86,2026-05-25,Barranquilla,Moda,Instagram,1,67.63,10,5,38
+87,2026-01-27,Bogotá,Belleza,Sitio web,1,26.5,0,3,26
+88,2026-01-31,Bogotá,Moda,WhatsApp,6,76.11,20,4,34
+89,2026-04-30,Barranquilla,Moda,WhatsApp,2,66.5,0,5,26
+90,2026-02-17,Bogotá,Tecnología,Sitio web,1,83.25,5,,32
+91,2026-02-25,Bogotá,Hogar,Sitio web,2,31.37,0,4,27
+92,2026-04-21,Cali,Belleza,WhatsApp,4,36.62,0,3,26
+93,2026-02-25,Medellín,Moda,WhatsApp,5,50.6,0,4,27
+94,2026-04-13,Bogotá,Tecnología,Instagram,3,92.45,20,5,39
+95,2026-02-12,Bogotá,Hogar,Instagram,2,43.29,0,2,52
+96,2026-05-12,Bogotá,Hogar,WhatsApp,1,57.23,15,,27
+97,2026-01-17,Barranquilla,Tecnología,Sitio web,1,102.08,0,3,18
+98,2026-05-20,Bogotá,Moda,Instagram,5,65.59,0,5,32
+99,2026-01-23,Medellín,Tecnología,Instagram,1,163.47,10,4,34
+100,2026-02-12,Bogotá,Belleza,WhatsApp,2,32.07,0,3,37
+101,2026-03-30,Bogotá,Moda,Instagram,2,23.65,5,2,
+102,2026-05-02,Cali,Tecnología,WhatsApp,2,244.22,0,5,32
+103,2026-06-28,Bogotá,Moda,Sitio web,1,81.38,20,4,45
+104,2026-03-06,Medellín,Moda,Instagram,3,51.29,10,1,33
+105,2026-05-17,Bogotá,Tecnología,Instagram,2,242.99,10,3,29
+106,2026-05-01,Barranquilla,Moda,Instagram,2,80.9,0,3,31
+107,2026-03-06,Medellín,Belleza,Instagram,2,38.56,0,,37
+108,2026-01-25,Medellín,Moda,Instagram,2,88.57,5,4,31
+109,2026-03-18,Cali,Belleza,Sitio web,5,41.38,5,5,18
+110,2026-01-08,Medellín,Belleza,Instagram,3,17.48,0,4,38
+111,2026-03-25,Bogotá,Moda,Instagram,1,62.13,20,4,18
+112,2026-05-21,Cali,Tecnología,Sitio web,2,129.07,5,3,43
+113,2026-03-19,Barranquilla,Belleza,Instagram,5,32.11,0,3,25
+114,2026-04-07,Cali,Tecnología,WhatsApp,2,149.85,0,4,52
+115,2026-03-18,Medellín,Hogar,Sitio web,3,30.01,10,4,23
+116,2026-03-31,Bogotá,Moda,Sitio web,2,81.89,0,5,18
+117,2026-03-04,Medellín,Hogar,WhatsApp,2,33.81,0,5,39
+118,2026-05-06,Medellín,Moda,WhatsApp,1,96.2,0,3,19
+119,2026-01-30,Bogotá,Tecnología,Instagram,1,150.22,0,5,37
+120,2026-03-02,Bogotá,Belleza,Sitio web,6,24.72,15,2,26
+121,2026-04-16,Bogotá,Hogar,Instagram,1,48.65,0,4,36
+122,2026-01-23,Medellín,Tecnología,Sitio web,2,224.72,10,3,25
+123,2026-04-19,Bogotá,Belleza,Instagram,1,17.71,10,5,38
+124,2026-03-31,Bogotá,Belleza,WhatsApp,1,10.39,0,4,48
+125,2026-03-05,Bogotá,Hogar,Sitio web,1,34.39,15,4,40
+126,2026-04-22,Bogotá,Tecnología,Instagram,2,207.57,0,3,34
+127,2026-06-08,Cali,Moda,Sitio web,4,77.24,0,4,32
+128,2026-01-09,Bogotá,Moda,WhatsApp,2,73.76,10,4,53
+129,2026-06-01,Medellín,Belleza,Sitio web,4,31.32,0,5,50
+130,2026-02-20,Bogotá,Moda,WhatsApp,4,86.51,0,1,31
+131,2026-04-19,Medellín,Moda,WhatsApp,1,63.01,0,4,18
+132,2026-04-26,Medellín,Belleza,WhatsApp,4,23.95,5,5,18
+133,2026-05-03,Bogotá,Belleza,Instagram,1,25.43,0,5,47
+134,2026-01-14,Bogotá,Belleza,Instagram,3,36.87,10,5,35
+135,2026-02-22,Cali,Belleza,Instagram,4,34.45,15,3,42
+136,2026-01-27,Bogotá,Tecnología,WhatsApp,5,214.97,10,4,48
+137,2026-01-18,Medellín,Hogar,Instagram,1,43.6,0,4,39
+138,2026-05-24,Cali,Hogar,WhatsApp,3,69.44,0,3,34
+139,2026-01-14,Bogotá,Moda,Sitio web,2,53.81,20,4,39
+140,2026-01-18,Bogotá,Moda,Sitio web,1,32.9,5,5,18
+141,2026-01-25,Barranquilla,Belleza,Instagram,2,39.21,20,1,24
+142,2026-06-26,Medellín,Moda,Sitio web,2,91.68,0,4,31
+143,2026-01-03,Bogotá,Hogar,Sitio web,1,49.13,0,5,43
+144,2026-05-24,Medellín,Hogar,Instagram,1,43.6,0,3,41
+145,2026-02-13,Cali,Hogar,Instagram,1,40.04,20,5,24
+146,2026-02-18,Bogotá,Moda,Instagram,2,61.88,5,4,25
+147,2026-05-17,Barranquilla,Belleza,Instagram,1,46.82,0,5,40
+148,2026-03-20,Barranquilla,Moda,Instagram,1,78.24,15,5,28
+149,2026-03-08,Bogotá,Belleza,WhatsApp,3,51.85,0,3,18
+150,2026-01-13,Cali,Hogar,Instagram,60,35.28,15,5,35
+151,2026-03-22,Bogotá,Belleza,Instagram,1,40.1,10,1,38
+152,2026-05-19,Bogotá,Moda,WhatsApp,2,89.55,5,4,41
+153,2026-04-20,Medellín,Hogar,Instagram,3,33.7,15,4,46
+154,2026-03-30,Medellín,Moda,Sitio web,5,79.43,10,4,29
+155,2026-06-24,Medellín,Hogar,Instagram,3,28.61,5,4,18
+156,2026-06-15,Medellín,Hogar,Sitio web,2,21.23,0,5,37
+157,2026-04-28,Barranquilla,Moda,WhatsApp,2,85.48,0,5,41
+158,2026-06-14,Bogotá,Hogar,Instagram,1,44.08,5,5,22
+159,2026-04-21,Cali,Moda,Instagram,1,84.32,20,4,49
+160,2026-05-06,Bogotá,Belleza,Sitio web,2,45.71,15,4,18
+161,2026-02-19,Cali,Tecnología,WhatsApp,4,169.5,0,4,18
+162,2026-04-30,Bogotá,Hogar,Sitio web,3,36.79,0,4,36
+163,2026-01-12,Bogotá,Moda,Sitio web,3,89.49,15,2,21
+164,2026-03-22,Cali,Belleza,Sitio web,3,26.56,10,4,50
+165,2026-05-28,Bogotá,Moda,Sitio web,4,74.94,0,5,36
+166,2026-03-12,Barranquilla,Moda,Sitio web,2,58.04,0,4,29
+167,2026-04-11,Bogotá,Hogar,Instagram,3,45.66,5,1,29
+168,2026-01-05,Medellín,Belleza,WhatsApp,3,35.45,0,2,19
+169,2026-01-28,Bogotá,Moda,Sitio web,2,67.43,20,1,33
+170,2026-04-26,Cali,Tecnología,Instagram,2,180.9,0,1,21
+171,2026-01-25,Bogotá,Moda,Sitio web,1,46.63,10,4,32
+172,2026-01-21,Barranquilla,Belleza,Instagram,1,46.65,0,4,18
+173,2026-02-22,Bogotá,Tecnología,Instagram,1,58.91,0,1,32
+174,2026-05-07,Barranquilla,Moda,Instagram,1,76.62,0,5,40
+175,2026-02-05,Bogotá,Moda,Sitio web,4,81.66,0,5,46
+176,2026-03-28,Medellín,Hogar,Sitio web,4,49.19,5,4,18
+177,2026-02-18,Medellín,Tecnología,Instagram,1,120.12,20,4,27
+178,2026-05-23,Medellín,Tecnología,Instagram,1,255.77,5,3,33
+179,2026-03-29,Bogotá,Hogar,Sitio web,5,74.97,15,4,19
+180,2026-04-12,Bogotá,Moda,Sitio web,5,88.81,20,4,37
+181,2026-01-24,Medellín,Tecnología,Instagram,2,271.35,0,3,33
+182,2026-03-09,Bogotá,Belleza,Instagram,6,49.99,15,3,21
+183,2026-06-18,Cali,Belleza,WhatsApp,3,30.91,10,1,37
+184,2026-03-21,Cali,Tecnología,Instagram,3,260.64,0,5,36
+185,2026-06-27,Medellín,Hogar,Instagram,1,44.88,0,5,29
+186,2026-05-14,Cali,Moda,WhatsApp,6,76.78,0,4,35
+187,2026-01-27,Medellín,Belleza,Instagram,1,39.58,10,2,34
+188,2026-02-19,Bogotá,Tecnología,WhatsApp,2,162.74,15,4,39
+189,2026-06-26,Medellín,Tecnología,WhatsApp,1,223.27,10,3,29
+190,2026-01-11,Medellín,Hogar,Instagram,5,48.55,5,2,40
+191,2026-03-27,Bogotá,Tecnología,Instagram,2,20.65,5,4,25
+192,2026-01-17,Bogotá,Tecnología,Instagram,4,93.59,20,4,35
+193,2026-05-05,Cali,Moda,Instagram,6,93.72,0,4,45
+194,2026-03-02,Cali,Belleza,WhatsApp,1,46.62,20,3,
+195,2026-05-20,Bogotá,Belleza,Instagram,2,30.44,10,4,42
+196,2026-01-07,Cali,Moda,Instagram,1,69.78,0,5,39
+197,2026-01-31,Bogotá,Hogar,Instagram,1,51.22,0,5,42
+198,2026-03-15,Bogotá,Tecnología,Instagram,1,149.44,10,5,29
+199,2026-02-28,Medellín,Tecnología,Sitio web,1,237.71,15,2,18
+200,2026-05-14,Cali,Hogar,WhatsApp,1,50.24,0,,31
+201,2026-01-12,Cali,Tecnología,Sitio web,3,73.07,5,4,
+202,2026-03-15,Cali,Moda,WhatsApp,4,65.85,10,4,40
+203,2026-02-10,Bogotá,Tecnología,WhatsApp,3,182.1,0,4,23
+204,2026-04-30,Cali,Belleza,Instagram,1,29.59,5,1,49
+205,2026-04-11,Bogotá,Tecnología,Sitio web,1,167.4,0,3,36
+206,2026-02-22,Barranquilla,Hogar,WhatsApp,1,41.6,15,3,33
+207,2026-06-03,Medellín,Tecnología,Sitio web,2,106.22,0,4,46
+208,2026-04-28,Bogotá,Moda,Instagram,3,48.21,0,5,42
+209,2026-06-23,Bogotá,Belleza,Instagram,4,18.86,20,4,29
+210,2026-05-20,Medellín,Belleza,Instagram,1,13.44,5,5,33
+211,2026-02-16,Medellín,Tecnología,Instagram,1,296.19,5,3,41
+212,2026-01-23,Medellín,Belleza,Instagram,3,28.18,15,4,39
+213,2026-02-12,Bogotá,Belleza,Instagram,1,33.4,10,5,35
+214,2026-06-08,Cali,Hogar,WhatsApp,3,60.79,10,3,29
+215,2026-02-09,Bogotá,Tecnología,Sitio web,1,240.14,5,,33
+216,2026-04-09,Cali,Tecnología,Sitio web,1,231.79,5,5,38
+217,2026-01-22,Bogotá,Tecnología,Sitio web,4,238.75,5,4,44
+218,2026-06-14,Bogotá,Moda,WhatsApp,6,77.05,0,3,28
+219,2026-06-01,Barranquilla,Belleza,WhatsApp,4,23.04,0,,
+220,2026-04-17,Bogotá,Tecnología,WhatsApp,3,184.07,15,4,38
+221,2026-05-25,Bogotá,Tecnología,Sitio web,2,158.84,20,2,35
+222,2026-06-08,Cali,Belleza,Sitio web,4,46.2,15,3,42
+223,2026-05-09,Bogotá,Tecnología,Instagram,1,219.17,0,4,37
+224,2026-01-09,Medellín,Belleza,WhatsApp,1,32.96,5,5,27
+225,2026-03-15,Medellín,Moda,Sitio web,1,43.13,0,4,65
+226,2026-01-12,Bogotá,Belleza,Instagram,2,51.63,0,5,29
+227,2026-01-01,Medellín,Moda,Instagram,4,65.85,10,,25
+228,2026-01-08,Bogotá,Tecnología,WhatsApp,1,260.31,0,5,41
+229,2026-06-14,Cali,Tecnología,WhatsApp,4,227.57,10,,27
+230,2026-03-28,Barranquilla,Belleza,WhatsApp,1,59.86,0,4,46
+231,2026-05-05,Barranquilla,Moda,Sitio web,1,85.93,0,5,31
+232,2026-03-31,Cali,Tecnología,Sitio web,3,127.72,0,4,24
+233,2026-05-21,Medellín,Hogar,WhatsApp,3,54.98,15,5,23
+234,2026-02-15,Medellín,Hogar,Instagram,1,41.59,0,5,47
+235,2026-01-25,Medellín,Tecnología,Sitio web,2,190.56,5,4,44
+236,2026-03-27,Medellín,Moda,WhatsApp,1,84.06,15,4,43
+237,2026-02-05,Bogotá,Hogar,Sitio web,2,43.75,0,,24
+238,2026-04-18,Bogotá,Moda,WhatsApp,1,54.73,10,5,49
+239,2026-01-06,Bogotá,Hogar,Sitio web,1,37.58,5,5,26
+240,2026-06-15,Medellín,Moda,Sitio web,2,85.86,10,4,46
+241,2026-01-08,Medellín,Tecnología,Sitio web,4,241.41,0,3,40
+242,2026-04-14,Bogotá,Belleza,WhatsApp,4,29.45,10,4,36
+243,2026-01-18,Medellín,Hogar,Instagram,2,37.34,0,4,51
+244,2026-02-28,Medellín,Moda,Instagram,1,112.29,15,3,40
+245,2026-01-29,Barranquilla,Tecnología,WhatsApp,3,212.55,0,5,20
+246,2026-02-07,Bogotá,Belleza,WhatsApp,1,42.45,0,5,30
+247,2026-03-10,Bogotá,Belleza,WhatsApp,4,32.08,0,3,
+248,2026-04-30,Bogotá,Moda,WhatsApp,1,71.85,0,5,
+249,2026-03-06,Cali,Belleza,WhatsApp,1,18.44,10,4,30
+250,2026-06-15,Medellín,Belleza,Sitio web,2,35.66,10,5,29
+251,2026-05-16,Bogotá,Moda,Instagram,1,67.42,20,3,35
+252,2026-01-18,Barranquilla,Belleza,Sitio web,3,23.8,10,4,35
+253,2026-05-14,Barranquilla,Moda,Instagram,2,77.01,5,4,18
+254,2026-02-13,Medellín,Moda,Instagram,1,82.89,10,2,36
+255,2026-05-06,Medellín,Tecnología,Sitio web,1,185.87,10,2,23
+256,2026-04-09,Medellín,Moda,WhatsApp,2,63.56,0,2,25
+257,2026-04-25,Barranquilla,Tecnología,Instagram,3,210.34,10,3,31
+258,2026-01-31,Barranquilla,Moda,Instagram,3,65.95,0,3,39
+259,2026-06-28,Bogotá,Tecnología,Sitio web,1,119.9,5,4,34
+260,2026-03-11,Medellín,Moda,Sitio web,1,82.99,0,5,33
+261,2026-01-04,Bogotá,Belleza,Sitio web,3,28.61,0,3,35
+262,2026-02-22,Bogotá,Hogar,Instagram,1,33.79,0,3,30
+263,2026-02-22,Barranquilla,Tecnología,WhatsApp,4,201.48,10,5,46
+264,2026-03-16,Bogotá,Moda,Instagram,3,52.68,0,5,18
+265,2026-02-04,Cali,Moda,Sitio web,1,88.37,15,4,31
+266,2026-01-18,Cali,Tecnología,Instagram,1,258.97,0,4,36
+267,2026-04-02,Cali,Belleza,WhatsApp,2,43.32,0,4,54
+268,2026-05-19,Medellín,Hogar,Sitio web,1,54.65,15,4,50
+269,2026-02-26,Bogotá,Moda,Instagram,1,54.02,20,4,38
+270,2026-03-26,Bogotá,Hogar,Sitio web,1,35.07,20,4,37
+271,2026-02-13,Cali,Tecnología,Instagram,2,190.88,0,2,42
+272,2026-03-02,Bogotá,Moda,WhatsApp,2,68.65,10,3,52
+273,2026-01-01,Cali,Tecnología,WhatsApp,4,335.75,10,5,34
+274,2026-05-24,Medellín,Tecnología,Instagram,1,213.63,20,4,42
+275,2026-05-25,Cali,Moda,Sitio web,1,52.84,10,5,34
+276,2026-05-19,Barranquilla,Moda,Instagram,2,60.57,0,4,30
+277,2026-01-03,Medellín,Tecnología,WhatsApp,1,174.73,10,4,30
+278,2026-04-15,Bogotá,Moda,Instagram,2,97.44,0,4,51
+279,2026-06-19,Bogotá,Hogar,Sitio web,2,66.45,20,5,31
+280,2026-03-29,Medellín,Tecnología,Sitio web,2,144.09,15,3,45
+281,2026-05-26,Bogotá,Tecnología,Instagram,2,102.71,0,4,39
+282,2026-02-10,Medellín,Tecnología,Sitio web,1,146.2,20,3,36
+283,2026-03-16,Bogotá,Tecnología,WhatsApp,1,124.28,0,2,40
+284,2026-01-27,Cali,Belleza,Sitio web,2,37.15,0,3,38
+285,2026-04-02,Bogotá,Hogar,WhatsApp,2,31.26,5,5,43
+286,2026-05-11,Barranquilla,Tecnología,WhatsApp,2,189.96,15,2,33
+287,2026-04-25,Bogotá,Tecnología,Sitio web,2,88.27,15,1,32
+288,2026-04-10,Bogotá,Hogar,Instagram,1,45.83,0,5,38
+289,2026-06-02,Bogotá,Belleza,Sitio web,1,52.58,0,5,18
+290,2026-04-27,Barranquilla,Tecnología,WhatsApp,2,120.77,0,4,34
+291,2026-05-28,Medellín,Hogar,Sitio web,1,48.7,5,3,42
+292,2026-04-28,Barranquilla,Belleza,Sitio web,2,44.28,5,4,37
+293,2026-06-20,Bogotá,Moda,Instagram,1,40.43,0,4,35
+294,2026-04-11,Medellín,Belleza,Instagram,5,32.71,20,3,28
+295,2026-05-18,Medellín,Hogar,Instagram,3,55.36,0,2,42
+296,2026-04-06,Barranquilla,Moda,Instagram,4,58.97,0,4,48
+297,2026-03-09,Bogotá,Belleza,WhatsApp,2,29.87,15,5,24
+298,2026-05-03,Barranquilla,Tecnología,Sitio web,1,251.74,0,4,33
+299,2026-03-24,Bogotá,Tecnología,WhatsApp,2,272.01,0,4,18
+300,2026-01-11,Barranquilla,Belleza,Instagram,3,30.57,0,5,44
